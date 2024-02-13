@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/sheelendar/GoPractices/go_projects/allen_batch_allocations/data_storage"
-	"github.com/sheelendar/GoPractices/go_projects/allen_batch_allocations/dto"
-	"github.com/sheelendar/GoPractices/go_projects/allen_batch_allocations/utils"
+	"github.com/sheelendar/go_projects/allen_batch_allocations/data_storage"
+	"github.com/sheelendar/go_projects/allen_batch_allocations/dto"
+	"github.com/sheelendar/go_projects/allen_batch_allocations/utils"
 )
 
 func Register(name, gender, roll string) {
