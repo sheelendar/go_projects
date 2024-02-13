@@ -1,4 +1,4 @@
-module github.com/sheelendar/src/go_orojects/spotify_api
+module github.com/sheelendar/go_projects/spotify_api
 
 go 1.20
 

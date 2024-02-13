@@ -1,3 +1,3 @@
-module github.com/sheelendar/src/go_projects/sensibull
+module github.com/sheelendar/go_projects/sensibull
 
 go 1.20
