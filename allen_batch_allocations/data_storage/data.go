@@ -1,6 +1,6 @@
 package data_storage
 
-import "github.com/sheelendar/src/go_projects/allen_batch_allocations/dto"
+import "github.com/sheelendar/go_projects/allen_batch_allocations/dto"
 
 var (
 	// we can make these as protacted so can not be modified by other source. due time limit not doing this.
